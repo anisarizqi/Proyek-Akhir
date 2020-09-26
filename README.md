@@ -1,13 +1,6 @@
 # Proyek-Akhir
 Sistem Kendali Irigasi Tanaman Cabai Berbasis Arduino
 
-Proyek akhir yang telah diselesaikan dimaksudkan sebagai solusi dari 
-masalah yang dialami para petani khususnya dalam menggunakan pengatur waktu 
-(timer) dalam upaya mengatur penjadwalan irigasi tetes. Cara ini masih kurang 
-efektif dalam memberi irigasi yang sesuai dengan kebutuhan air tanaman karena 
-hanya mampu mengatur pemberian irigasi berdasarkan interval waktu yang telah 
-ditentukan saja, sehingga kelebihan maupun kekurangan air tidak dapat 
-dikendalikan.  
 Purwarupa Kendali Irigasi Tanaman Cabai Berbasis Arduino menggunakan 
 cabai sebagai objek implementasi sistem irigasi. Purwarupa terdiri dari 
 mikrokontroler Arduino Uno sebagai pengendali katup solenoid valve dan pengolah 
